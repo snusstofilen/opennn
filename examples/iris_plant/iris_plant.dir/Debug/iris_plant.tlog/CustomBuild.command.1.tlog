@@ -1,0 +1,10 @@
+^C:\USERS\MUIKKUNEN\SOURCE\REPOS\OPENNN\EXAMPLES\IRIS_PLANT\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Muikkunen/source/repos/opennn -BC:/Users/Muikkunen/source/repos/opennn --check-stamp-file C:/Users/Muikkunen/source/repos/opennn/examples/iris_plant/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

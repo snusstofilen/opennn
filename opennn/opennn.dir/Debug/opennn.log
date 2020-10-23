@@ -1,0 +1,53 @@
+﻿  Building Custom Rule C:/Users/Muikkunen/source/repos/opennn/opennn/CMakeLists.txt
+  adaptive_moment_estimation.cpp
+  bounding_layer.cpp
+  conjugate_gradient.cpp
+  convolutional_layer.cpp
+  correlations.cpp
+  cross_entropy_error.cpp
+  data_set.cpp
+  genetic_algorithm.cpp
+  gradient_descent.cpp
+  growing_inputs.cpp
+  growing_neurons.cpp
+  inputs_selection.cpp
+  layer.cpp
+  learning_rate_algorithm.cpp
+  levenberg_marquardt_algorithm.cpp
+  long_short_term_memory_layer.cpp
+  loss_index.cpp
+  mean_squared_error.cpp
+  minkowski_error.cpp
+  model_selection.cpp
+  Generating Code...
+C:\Users\Muikkunen\source\repos\opennn\opennn\model_selection.cpp(657): warning C4715: 'OpenNN::ModelSelection::write_neurons_selection_method': not all control paths return a value
+C:\Users\Muikkunen\source\repos\opennn\opennn\model_selection.cpp(676): warning C4715: 'OpenNN::ModelSelection::write_inputs_selection_method': not all control paths return a value
+  Compiling...
+  neural_network.cpp
+  neurons_selection.cpp
+  normalized_squared_error.cpp
+  numerical_differentiation.cpp
+  opennn_strings.cpp
+  optimization_algorithm.cpp
+  perceptron_layer.cpp
+  pooling_layer.cpp
+  principal_components_layer.cpp
+  probabilistic_layer.cpp
+  pruning_inputs.cpp
+  quasi_newton_method.cpp
+  recurrent_layer.cpp
+  response_optimization.cpp
+  scaling_layer.cpp
+  statistics.cpp
+  stochastic_gradient_descent.cpp
+  sum_squared_error.cpp
+  testing_analysis.cpp
+  tinyxml2.cpp
+  Generating Code...
+  Compiling...
+  training_strategy.cpp
+  unit_testing.cpp
+  unscaling_layer.cpp
+  weighted_squared_error.cpp
+  Generating Code...
+  opennn.vcxproj -> C:\Users\Muikkunen\source\repos\opennn\opennn\Debug\opennn.lib

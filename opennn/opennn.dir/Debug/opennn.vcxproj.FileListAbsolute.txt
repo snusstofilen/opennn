@@ -1,0 +1,2 @@
+C:\Users\Muikkunen\source\repos\opennn\opennn\Debug\opennn.pdb
+C:\Users\Muikkunen\source\repos\opennn\opennn\opennn.dir\Debug\opennn.pdb
